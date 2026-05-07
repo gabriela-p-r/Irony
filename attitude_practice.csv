@@ -1,0 +1,53 @@
+Group,Item,Condition,Sentence,SentenceBold,Question,QuestionSentence,TrueOrFalse,CorrectResponse
+1,0.1,practice,"Max runs a local coffee shop.
+He has worked there for several years.
+His colleague Robby is working at the cash register.
+The customers are extremely demanding.
+Robby says to him:
+“I can’t wait to have a day off.”
+The cafe is very busy today.","Max runs a local coffee shop.
+He has worked there for several years.
+His colleague Robby is working at the cash register.
+<u>The customers are extremely demanding.</u>
+Robby says to him:
+“I can’t wait to have a day off.”
+The cafe is very busy today.",YES,Does Robby work at a coffee shop?,YES,Y
+2,0.1,practice,"Max runs a local coffee shop.
+He has worked there for several years.
+His colleague Robby is working at the cash register.
+The customers are extremely demanding.
+Robby says to him:
+“I can’t wait to have a day off.”
+The cafe is very busy today.","Max runs a local coffee shop.
+He has worked there for several years.
+His colleague Robby is working at the cash register.
+<u>The customers are extremely demanding.</u>
+Robby says to him:
+“I can’t wait to have a day off.”
+The cafe is very busy today.",YES,Does Robby work at a coffee shop?,YES,Y
+2,0.2,practice,"Peter plays basketball with his friends every weekend.
+His team is preparing for a game.
+He and his teammate Jason are looking forward to it.
+They are eager to try out some new plays.
+After a beautiful shot, Jason says to Peter:
+""You are truly talented.""
+Later, Peter and Jason played well.","Peter plays basketball with his friends every weekend.
+His team is preparing for a game.
+He and his teammate Jason are looking forward to it.
+They are eager to try out some new plays.
+After a beautiful shot, Jason says to Peter:
+<u>""You are truly talented.""</u>
+Later, Peter and Jason played well.",No,,,
+1,0.2,practice,"Peter plays basketball with his friends every weekend.
+His team is preparing for a game.
+He and his teammate Jason are looking forward to it.
+They are eager to try out some new plays.
+After a beautiful shot, Jason says to Peter:
+""You are truly talented.""
+Later, Peter and Jason played well.","Peter plays basketball with his friends every weekend.
+His team is preparing for a game.
+He and his teammate Jason are looking forward to it.
+They are eager to try out some new plays.
+After a beautiful shot, Jason says to Peter:
+<u>""You are truly talented.""</u>
+Later, Peter and Jason played well.",No,,,
